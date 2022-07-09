@@ -1,4 +1,5 @@
-# Project_two
+# Project Two Report
+
 # ETL Process
 ![alt text](images/ETL.png)
 
@@ -85,6 +86,7 @@ After using pandas to create our database connection in Jupyter, we loaded each 
 
 ![alt text](images/connection_and_loading.PNG)
 
+## pgAdmin
 Finally, back in pgAdmin, we joined the appropriate tables for our intended analytical use. Our original purpose was to historically analyze global inflation rates and their respective national income and unemployment levels, as well as their relation to major world events. 
 
 We joined the income and annual_inflation tables to analyze the historical relationship between inflation rates and income levels, by country.
