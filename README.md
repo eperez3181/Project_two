@@ -53,7 +53,6 @@ In the initial phase we imported dependencies, which allowed us to extract, tran
 ### Reading the CSVs
 
 For most of our datasets, we were able to use a simple pandas.read to load our CSV files into a Jupyter notebook. 
-
 Example below:
 ![alt text](images/read_usa_monthly_cpi_csv.PNG)
  
